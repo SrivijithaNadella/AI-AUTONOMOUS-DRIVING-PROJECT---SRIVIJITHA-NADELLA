@@ -3,11 +3,11 @@ val: ../valid/images
 test: ../test/images
 
 nc: 1
-names: ['bus']
+names: ['car']
 
 roboflow:
-  workspace: bobba-wqufa
-  project: bus-yjjft
-  version: 1
+  workspace: kasstiel57
+  project: monitoring-of-transport-routes
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/bobba-wqufa/bus-yjjft/dataset/1
+  url: https://universe.roboflow.com/kasstiel57/monitoring-of-transport-routes/dataset/2
